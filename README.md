@@ -1,2 +1,2 @@
 # web-dev-beginner
-Web page that can be used by any software company as their home page.
+Web Dev project that can be used by any software company as their home page.
